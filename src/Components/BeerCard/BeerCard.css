@@ -1,0 +1,11 @@
+.hashir {
+	color: #fff;
+	background: rgba(0, 0, 3, 0.5);
+	font-family: 'Dosis', Calibri, sans-serif;
+	font-weight: 100;
+	letter-spacing: 1px;
+}
+
+.card__container{
+  width: 100%;
+}
