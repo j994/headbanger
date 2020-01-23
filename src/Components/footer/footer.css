@@ -1,5 +1,5 @@
 .social {
-    right: 0;
+    justify-content: flex-end;
 }
 
 .footer {
